@@ -1,6 +1,10 @@
-# Hi buddy! 👋
+# 👋 Hello, World!
 
-I'm a passionate developer, and what can man do better without passion anyway ??
+I'm a **self-taught developer** with a background in **cybersecurity, networking, and ethical hacking**. My journey is driven by a love for **computers**, a passion for **reading**, and an unwavering faith in **God**. Every day, I strive to learn, grow, and build meaningful solutions that make an impact. 🚀
+
+---
+“Whatever you do, work at it with all your heart, as working for the Lord.” – Colossians 3:23
+
 
 ## 📊 Check this out:
 ![Bahati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bahati308&show_icons=true&theme=radical)
