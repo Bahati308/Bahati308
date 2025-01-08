@@ -19,6 +19,8 @@ I'm a **self-taught developer** with a background in **cybersecurity, networking
 
 ## 🔗 Connect with me
 - [LinkedIn](https://ug.linkedin.com/in/bahati-brian-patrick-3b5933224)
+- 
+- [Website](https://bahati308.github.io/)
 
 ## visitors
   ![Profile Views](https://komarev.com/ghpvc/?username=Bahati308&color=blue)
