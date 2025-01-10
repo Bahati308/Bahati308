@@ -20,8 +20,9 @@ In my free time, you’ll find me exploring emerging cybersecurity trends, honin
 ## 🚀 Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati308&layout=compact&theme=highcontrast)
 
-## 🏆 My GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahati308&theme=highcontrast)
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://img.shields.io/badge/🏆_GitHub_Trophies-Highcontrast-blue)
+
 
 
 ## 🔗 Connect with Me
