@@ -15,13 +15,13 @@ Beyond coding and security, I am driven by a desire to continuously learn and ex
 In my free time, you’ll find me exploring emerging cybersecurity trends, honing my ethical hacking skills, and mentoring others to navigate the ever-evolving tech landscape.
 
 ## 📊 GitHub Overview
-![Bahati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bahati308&show_icons=true&theme=grayscale)
+![Bahati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bahati308&show_icons=true&theme=highcontrast)
 
-## 🚀 Top Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati308&layout=compact&theme=grayscale)
+## 🚀 Programming Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati308&layout=compact&theme=highcontrast)
 
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahati308&theme=grayscale)
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahati308&theme=highcontrast)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://ug.linkedin.com/in/bahati-brian-patrick-3b5933224)
