@@ -17,9 +17,6 @@ In my free time, you’ll find me singing, reading and travelling, making alot o
 ## GitHub Overview
 ![Bahati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bahati308&show_icons=true&theme=highcontrast)
 
-## Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati308&layout=compact&theme=highcontrast)
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://ug.linkedin.com/in/bahati-brian-patrick-3b5933224)
 - [Website](https://bahati308.github.io/)
