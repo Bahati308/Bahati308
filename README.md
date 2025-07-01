@@ -20,13 +20,6 @@ In my free time, you’ll find me singing, reading and travelling, making alot o
 ## Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati308&layout=compact&theme=highcontrast)
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahati308&theme=highcontrast)
-
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://ug.linkedin.com/in/bahati-brian-patrick-3b5933224)
 - [Website](https://bahati308.github.io/)
-
-## visitors
-  ![Profile Views](https://komarev.com/ghpvc/?username=Bahati308&color=blue)
