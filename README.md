@@ -10,7 +10,6 @@ My journey in the tech world began with a fascination for securing digital envir
     Designing and deploying resilient networking architectures.
     Contributing to collaborative open-source projects that address real-world challenges.
 
-Beyond coding and security, I am driven by a desire to continuously learn and explore new frontiers in computer science. From developing tools to automate security assessments to contributing to community-driven tech initiatives, I aim to leave a meaningful impact in the industry.
 
 In my free time, you’ll find me singing, reading and travelling, making alot of effort to make the moments worth enjoying.
 
