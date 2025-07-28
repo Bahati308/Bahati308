@@ -6,10 +6,9 @@ I am a passionate open-source developer with a strong foundation in cybersecurit
 
 My journey in the tech world began with a fascination for securing digital environments and has evolved into a commitment to building robust, scalable, and open-source technologies. I specialize in:
 
-    Identifying vulnerabilities and implementing secure coding practices.
-    Designing and deploying resilient networking architectures.
-    Contributing to collaborative open-source projects that address real-world challenges.
-
+Identifying vulnerabilities and implementing secure coding practices.
+Designing and deploying resilient networking architectures.
+Contributing to collaborative open-source projects that address real-world challenges.
 
 In my free time, you’ll find me singing, reading and travelling, making alot of effort to make the moments worth enjoying.
 
